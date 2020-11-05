@@ -6,6 +6,6 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         MsgBox("welcome")
-
+        MsgBox("welcome")
     End Sub
 End Class
